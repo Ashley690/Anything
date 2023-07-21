@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+
+.border{
+    background-color: aquamarine;
+    border: 1px;
+    border-radius: 20%;
+    border-color: black;
+}
+
+.donut{
+    color: black;
+}
